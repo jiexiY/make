@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html lang="cn">
+
+<body>
+<p>幸福无罪论</p>
+</body>
